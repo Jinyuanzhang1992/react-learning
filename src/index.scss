@@ -1,5 +1,4 @@
 @import "~bootstrap/dist/css/bootstrap.css";
-@import "~bootstrap/dist/css/bootstrap-theme.css";
 
 body {
   margin: 0;
@@ -13,4 +12,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.btn {
+  background-color: red;
+  border: 1px solid yellow;
 }
